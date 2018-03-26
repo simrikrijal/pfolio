@@ -1,0 +1,9 @@
+{
+  "name": "simrik-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "repository": "git@github.com:tuxsisir/pfolio.git",
+  "author": "simrikrijal@gmail.com",
+  "license": "MIT"
+}
