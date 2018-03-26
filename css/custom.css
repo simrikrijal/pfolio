@@ -1,0 +1,12 @@
+.skill-icon{
+    font-size: 15rem;
+}
+
+.heading-margin{
+    margin: 5px 10px 15px 0px;
+}
+
+#map{
+    height: 600px;
+    width: 100%;
+}
